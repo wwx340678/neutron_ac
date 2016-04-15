@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//neutron/restproxy/config/config.py=utf-8
+encoding//neutron/restproxy/config/configreader.py=utf-8
+encoding//neutron/restproxy/config/iniparser.py=utf-8
+encoding//neutron/restproxy/log/logger.py=utf-8
+encoding//neutron/restproxy/service/decode.py=utf-8
+encoding//neutron/restproxy/service/encode.py=utf-8
+encoding//neutron/restproxy/service/service.py=utf-8
+encoding//neutron/restproxy/util/cipherutil.py=utf-8
+encoding//neutron/restproxy/util/dictutil.py=utf-8
+encoding//neutron/restproxy/util/encrypt.py=utf-8
+encoding//neutron/restproxy/util/logutil.py=utf-8
+encoding/<project>=UTF-8
